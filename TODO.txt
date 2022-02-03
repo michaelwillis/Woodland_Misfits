@@ -1,0 +1,13 @@
+First scenario hint about using wolves as scouts
+Figure out finalized mage upgrade path - wood mage?
+More zombies in The Bridge Guard, depending on difficulty
+Destroy zombies at end of bridge scenario before Taliesa speaks
+Adjust bridge guard dialog a little, drop the Monty Python reference
+Make the bridge guard only yell insults upon attack, not defend
+Make the bridge guard yell insults at zombies in all scenarios?
+Make entire line of hunters neutral?
+Make moaning Marshes a little more difficult
+
+Fix dialog at beginning of Valleys
+Auto recall Horatio at beginning of Valleys, if available
+
